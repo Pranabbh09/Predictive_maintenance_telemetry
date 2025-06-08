@@ -203,6 +203,7 @@ plt.xlabel('Date')
 ![png](output_4_1.png)
 
 
+
 #### **Errors**
 The second major data source is the error logs. These are **non-breaking errors thrown while the machine is still operational and do not constitute as failures.** The **error date and times** are rounded to the closest hour since the telemetry data is collected at an hourly rate.
 
